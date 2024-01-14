@@ -1,0 +1,30 @@
+JS
+Only language that can run in a browser
+
+Syntax
+Semi colon in js marks the end of line
+But semi-colon is optional
+We can save html elements in variables
+
+DOM 
+-Documenta(file) Object(tags elements) Model(layout structure)
+-DOM is a prgming interface for HTML and XML documents 
+-Represents the content of xml or html doc as tree structure
+-It represents the page in tree structure so prg can read, access, update the contents of the doc
+-is a prg interface(API)
+	
+Variables _ let 
+
+js complex/coposite data type - can contain various data types
+
+in js fuxn gets hoisted to the top , so we can write fuxn block below the call 
+but in variable we need to declare it first and then use it
+
+
+unspeakable debauchery
+finest skril
+veritable cornucopia
+sordid 
+blatant
+nasaent
+recalcitrant

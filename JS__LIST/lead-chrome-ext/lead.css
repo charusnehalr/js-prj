@@ -1,0 +1,40 @@
+body{
+  margin:0;
+  padding:10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+input{
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%; /* 100% +10px+10px*/
+  box-sizing:border-box;
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid rgb(55, 204, 55);
+}
+#input-btn, #tab-btn{
+  background-color:rgb(55, 204, 55);
+  color: white;
+  padding: 10px 20px;
+  border:  rgb(55, 204, 55) solid 1px;
+  font-weight: bold;
+}
+#del-btn{
+  background-color:white;
+  color: rgb(55, 204, 55);
+  padding: 10px 20px;
+  border: rgb(55, 204, 55) solid 1px;
+  font-weight: bold;
+}
+ul{
+  margin-top: 20px;
+  list-style: none;
+  padding:0;
+}
+li a{
+  color: green;
+}
+li{
+ margin-top: 5px;
+}
